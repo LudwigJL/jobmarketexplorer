@@ -1,6 +1,6 @@
 streamlit==1.21.0
 streamlit-option-menu==0.3.2
-pipenv==1.5.9
+pipenv==2023.3.20
 matplotlib==3.7.1
 nltk==3.8.1
 numpy==1.24.2
