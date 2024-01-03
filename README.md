@@ -29,7 +29,7 @@ Welcome to JobMarketExplorer, an application designed to provide insights into t
    ```
 
 4. **Explore and Analyze:**
-   Open your web browser and navigate to http://localhost:5000 to start exploring the trends in the IT and tech job marketplace.
+   Open your web browser and navigate to http://localhost:5000 to begin exploring trends in the IT and tech job marketplace. Please be aware to enable light mode when running the     application. Streamlit settings are typically configured in dark mode by default, which is not the intended mode for our application.
 
 ## Acknowledgments:
 
