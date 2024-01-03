@@ -6,8 +6,6 @@ import numpy as np
 import altair as alt
 import pandas as pd
 from streamlit_option_menu import option_menu
-import page2
-from page2 import get_content
 import matplotlib
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
