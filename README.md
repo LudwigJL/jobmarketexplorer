@@ -13,6 +13,9 @@ Developed by me during my freshman year in University, this application is built
 
 - **Python Powered:** Built using Python, ensuring a robust and versatile foundation for seamless functionality and future enhancements.
 
+## Screenshots
+![Homeview](screenshots/homepage.png) ![Trendview](screenshots/trendview.png)
+
 ## How to Use:
 
 1. **Clone the Repository:**
