@@ -1,7 +1,7 @@
 # JobMarketExplorer - A Python web applicaiton.
 ## Overview
 
-This application is designed to provide insights into the dynamic trends within the job marketplace, with a specific focus on job positions and technologies within the IT and tech industry. Our goal is to offer a user-friendly platform for analyzing trends within the tech job market.
+This application is designed to provide insights into the dynamic trends within the job marketplace, with a specific focus on job positions and technologies within the IT and tech industry. The goal is to offer a user-friendly platform for analyzing trends within the tech job market.
 
 Developed by me during my freshman year in University, this application is built using Python and Streamlit, leveraging APIs to fetch real-time data from the publicly available resources at https://data.jobtechdev.se.
 
